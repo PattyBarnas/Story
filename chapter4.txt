@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Just practicing :)
-=======
-Github TEST
->>>>>>> main
+Okay Last One
